@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/AgeShinobi/movies-explorer-frontend.git
+[submodule "api"]
+	path = api
+	url = https://github.com/AgeShinobi/movies-explorer-api.git
